@@ -8,7 +8,7 @@ while True :
     ret, frame = cap.read()
 
     if ret :
-        gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         faces = classifier.detectMultiScale(gray)
         areas = []
         for face in faces :
@@ -16,6 +16,7 @@ while True :
             area = w*h
             areas.append((area,face))
         if areas!=[] :
+            print(areas)
             areas = sorted(areas, reverse=True)
             x, y, w, h = areas[0][1]
             cv2.rectangle(frame, (x, y), (x + w, y + h), (120, 55, 120), 3)
