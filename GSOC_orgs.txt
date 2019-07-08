@@ -1,0 +1,15 @@
+Django Software Foundation	https://summerofcode.withgoogle.com/organizations/5465143218012160/
+
+Internet Archive		https://summerofcode.withgoogle.com/organizations/6482109326163968/
+
+Read the Docs			https://summerofcode.withgoogle.com/organizations/6158414290354176/
+
+Software Heritage		https://summerofcode.withgoogle.com/organizations/6344576017629184/
+
+Zulip Open Source Project	https://summerofcode.withgoogle.com/organizations/5553601418625024/
+
+Debian				https://summerofcode.withgoogle.com/organizations/5566947593289728/
+
+
+
+
