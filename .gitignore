@@ -10,6 +10,10 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+Movie_review/Train.csv
+Movie_review/Test.csv
+Movie_review/Train.zip
+Movie_review/Test.zip
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
