@@ -18,4 +18,10 @@ Movie_review/Test.zip
 #   git rm -r .ipynb_checkpoints/
 #
 
+GAN/training_data_64_64.npy
+GAN/training_data_64_64_LAG.npy
+GAN/lag-dataset.zip
+GAN/compressed_filename.zip
+
+
 # End of https://www.gitignore.io/api/jupyternotebooks
